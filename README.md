@@ -1,30 +1,240 @@
 <h1 align="center">Hi 👋, I'm Irfan Ansari</h1>
-<h3 align="center">B.Tech CSE Student | Java Developer | DSA Enthusiast | Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imirfanansari&label=Profile%20views&color=0e75b6&style=flat" alt="imirfanansari" /> </p>
+<h3 align="center">
+B.Tech CSE Student • Java Developer • DSA Enthusiast • Full-Stack Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imirfanansari" alt="imirfanansari" /></a> </p>
-
-- 🌱 I’m currently learning **full Stack Dev | DSA**
-
-- 👨‍💻 All of my projects are available at [https://github.com/imirfanansari](https://github.com/imirfanansari)
-
-- 💬 Ask me about **Web Dev**
-
-- 📫 How to reach me **imirfanansari0001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/irfanansariiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/irfanansariiiii" height="30" width="40" /></a>
-<a href="https://instagram.com/im_irfan.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_irfan.a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imirfanansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imirfanansari" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/imirfanansari">
+    <img src="https://komarev.com/ghpvc/?username=imirfanansari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/imirfanansari?tab=followers">
+    <img src="https://img.shields.io/github/followers/imirfanansari?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imirfanansari&show_icons=true&locale=en&layout=compact" alt="imirfanansari" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imirfanansari&show_icons=true&locale=en" alt="imirfanansari" /></p>
+* 🎓 B.Tech (LEET) CSE Student
+* 💻 Passionate about **Java, DSA and Web Development**
+* 🌱 Currently learning **Full-Stack Development & Data Structures and Algorithms**
+* 🚀 Building my skills through coding, projects and problem solving
+* 🧠 Interested in **Software Development, Web Development and Backend Engineering**
+* 💬 Ask me about **Java, DSA, HTML, CSS and Web Development**
+* 📂 All my projects are available on **GitHub**
+* ⚡ Fun fact: I enjoy turning ideas into code
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imirfanansari&" alt="imirfanansari" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" height="45" alt="Java"/>
+</a>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+</a>
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
+</a>
+<a href="https://www.c-language.org/">
+<img src="https://skillicons.dev/icons?i=c" height="45" alt="C"/>
+</a>
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind" height="45" alt="Web Technologies"/>
+</p>
+
+### 🗄️ Database & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" height="45" alt="Tools"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Full-Stack Development
+├── Frontend
+│   ├── HTML
+│   ├── CSS
+│   ├── JavaScript
+│   └── Tailwind CSS
+│
+├── Backend
+│   └── Java / Backend Technologies
+│
+├── Database
+│   └── MySQL
+│
+└── Problem Solving
+    └── Data Structures & Algorithms
+```
+
+---
+
+## 🚀 Featured Projects
+
+> More projects are coming as I continue building and learning.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🩺 Online Doctor Appointment System
+
+A responsive web application designed to simplify doctor appointment booking and management.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 **Repository:**
+[View Project](https://github.com/imirfanansari)
+
+</td>
+
+<td width="50%">
+
+### 🧠 DSA Practice
+
+A collection of Data Structures and Algorithms problems implemented while improving problem-solving skills.
+
+**Focus:** Java • C++ • Algorithms • Problem Solving
+
+🔗 **Repository:**
+[View GitHub](https://github.com/imirfanansari)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=imirfanansari&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imirfanansari&layout=compact&hide_border=true&langs_count=8" width="41%" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=imirfanansari&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/imirfanansari/imirfanansari/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</p>
+
+> **Note:** The snake animation requires a GitHub Actions workflow in the profile repository. Instructions are provided below.
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imirfanansari&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=imirfanansari&theme=flat&no-frame=true&margin-w=10&row=1" width="95%" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 💡 Problem Solving
+
+<p align="center">
+<a href="https://leetcode.com/imirfanansari">
+<img src="https://leetcard.jacoblin.cool/imirfanansari?theme=dark&font=baloo&ext=heatmap" width="500" alt="LeetCode Stats"/>
+</a>
+</p>
+
+---
+
+## 📌 GitHub Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/github/repos/imirfanansari?style=for-the-badge&logo=github&label=Repositories" alt="Repositories"/>
+
+<img src="https://img.shields.io/github/stars/imirfanansari?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+
+<img src="https://img.shields.io/github/followers/imirfanansari?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Strengthen **Data Structures & Algorithms**
+* [ ] Become strong in **Java**
+* [ ] Learn complete **Full-Stack Development**
+* [ ] Build real-world projects
+* [ ] Improve problem-solving skills
+* [ ] Contribute to Open Source
+* [ ] Build a strong developer portfolio
+* [ ] Maintain consistent GitHub contributions
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/irfanansariiiii">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+</a>
+
+<a href="https://instagram.com/im_irfan.a">
+<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+</a>
+
+<a href="https://leetcode.com/imirfanansari">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" alt="LeetCode"/>
+</a>
+
+<a href="mailto:imirfanansari0001@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Developer Quote
+
+<p align="center">
+<i>"Code. Learn. Build. Repeat."</i>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my work interesting, consider giving my repositories a star!
+</p>
